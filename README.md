@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alizare-666
 - 👀 I’m interested in linux programming(spcial in c++ & python) security and script
-- 🌱 I’m currently learning python & bash 
+- 🌱 I’m currently learning python & bash & LPIC1 & LPIC2 & CEH
 - 💞️ I’m looking to collaborate on any project about security and programming
 - 📫 How to reach me ali.zare.0@protonmail.com 
 
